@@ -4,7 +4,7 @@
 # =============== #
 Temp/
 Obj/
-UnityGenerated/
+#UnityGenerated/#
 Library/
 
 # ===================================== #
@@ -18,7 +18,7 @@ ExportedObj/
 *.suo
 *.sln
 *.user
-#*.unityproj#
+*.unityproj
 *.booproj
 
 # ============ #
